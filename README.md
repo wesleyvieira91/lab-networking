@@ -98,7 +98,7 @@ exit
 
 ---
 
-## 5) Checkpoint D — Interno vs Público (explicação para sala)
+## 5) Checkpoint D — Interno vs Público
 
 Agora você tem:
 - **Público (host):** `http://localhost:8080`
