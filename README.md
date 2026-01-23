@@ -104,9 +104,6 @@ Agora você tem:
 - **Público (host):** `http://localhost:8080`
 - **Interno (rede Docker):** `http://lab-net-web` (só dentro da rede)
 
-Use essa frase:
-> “Port mapping expõe para o host. Rede bridge + DNS interno é para comunicação entre containers.”
-
 ---
 
 ## 6) Extra (rápido) — Sem publicar porta e ainda assim funcionar “interno”
